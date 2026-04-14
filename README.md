@@ -1,16 +1,18 @@
-## Hi there 👋
+## Mauro Alexandre
 
-<!--
-**Mauro-Alexandre/Mauro-Alexandre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Com 19 anos, sou estudante de informática interessado tanto na parte de **software** quanto de **hardware**. Atualmente focado em aprender sobre as áreas de tecnologia.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 O que eu faço:
+- **Software:** C#, JavaScript, HTML & CSS e SQL.
+- **Hardware:** Montagem, limpeza e manutenção.
+
+### 🔭 Estudando no momento:
+Técnico de informática - Senac
+
+---
+
+### 📫 Contato:
+- [LinkedIn](https://www.linkedin.com/in/mauro-alexandre/)
+- [E-mail](mauro06aps@gmail.com)
