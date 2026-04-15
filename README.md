@@ -1,5 +1,5 @@
 ## Mauro Alexandre
-<img src="https://img.shields.io/static/v1?label=Overview&message=Mauro_Alexandre&color=f8efd4&style=for-the-badge&logo=GitHub%22 alt="Static GitHub">
+<img src="https://img.shields.io/static/v1?label=Overview&message=MauroAlexandre&color=f8efd4&style=for-the-badge&logo=GitHub%22 alt="Static GitHub">
 
 Sou interessado tanto na parte de **software** quanto de **hardware**, atualmente focado em aprender sobre as áreas de tecnologia.
 
